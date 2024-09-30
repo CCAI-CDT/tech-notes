@@ -4,6 +4,7 @@
   <img src="../media/Tasks.png" alt="xkcd comic #1425: Tasks" height="450" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center;"><a href="https://xkcd.com/1425/">xkcd #1425: Tasks</a> - <i>24 Sept 2014</i></figcaption>
 </figure>
+<br>
 
 > In 2015 the idea of creating a computer system that could recognise birds was considered so outrageously challenging that it was the basis of this XKCD joke.
 >
