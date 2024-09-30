@@ -1,5 +1,19 @@
 # A Beginner's Guide to Teachable Machine
 
+<figure>
+  <img src="../media/Tasks.png" alt="xkcd comic #1425: Tasks" height="450" style="display: block; margin: 0 auto;">
+  <figcaption style="text-align: center;"><a href="https://xkcd.com/1425/">xkcd #1425: Tasks</a> - <i>24 Sept 2014</i></figcaption>
+</figure>
+
+> In 2015 the idea of creating a computer system that could recognise birds was considered so outrageously challenging that it was the basis of this XKCD joke.
+>
+> ― From <cite>[Is it a bird? Creating a model from your own data](https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data)</cite>
+
+A decade (and countless research teams) later, creating a bird recognition model is no longer the hard task it once was. You can create your own in just a few minutes with minimal code ([following this tutorial](https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data)) or no code at all using tools like Teachable Machine.
+
+
+
+## What is Teachable Machine?
 [Teachable Machine](https://teachablemachine.withgoogle.com/) is a web tool developed by Google that makes it possible to create machine learning models without writing a single line of code. It aims to make creating machine learning models more accessible to a wider audience, including those who may not have a background in machine learning or programming.
 
 
@@ -71,3 +85,4 @@ If you're happy to list your project here, please export your model and/or downl
 - [Bananameter Tutorial](https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866)
 - Teachable Machine Official Tutorials [Part 1](https://www.youtube.com/watch?v=DFBbSTvtpy4), [Part 2](https://www.youtube.com/watch?v=CO67EQ0ZWgA), and [Part 3](https://www.youtube.com/watch?v=n-zeeRLBgd0)
 - The Coding Train's [Teachable Machine Image Classification](https://www.youtube.com/watch?v=kwcillcWOg0) and [Teachable Machine Snake Game](https://www.youtube.com/watch?v=UPgxnGC8oBU) tutorials - Using Teachable Machine models in p5.js and ml5.js
+- [Is it a bird? Creating a model from your own data](https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data) - A python tutorial on creating bird recognition models. While it doesn't use Teachable Machine, the principles are similar, and you can follow the same steps to convert any of your Teachable Machine models to Python.
