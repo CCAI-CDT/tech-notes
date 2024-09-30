@@ -63,7 +63,11 @@ Now it's your turn to create your own Teachable Machine model. In groups or howe
 If you're happy to list your project here, please export your model and/or download your dataset and share it with me.
 
 ## Resources
+### General
 - [Teachable Machine Website](https://teachablemachine.withgoogle.com/)
+- [Teachable Machine: Approachable Web-Based Tool for Exploring Machine Learning Classification](https://dl.acm.org/doi/10.1145/3334480.3382839) - Extended Abstract from CHI 2020
+
+### Tutorials
+- [Bananameter Tutorial](https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866)
 - Teachable Machine Official Tutorials [Part 1](https://www.youtube.com/watch?v=DFBbSTvtpy4), [Part 2](https://www.youtube.com/watch?v=CO67EQ0ZWgA), and [Part 3](https://www.youtube.com/watch?v=n-zeeRLBgd0)
 - The Coding Train's [Teachable Machine Image Classification](https://www.youtube.com/watch?v=kwcillcWOg0) and [Teachable Machine Snake Game](https://www.youtube.com/watch?v=UPgxnGC8oBU) tutorials - Using Teachable Machine models in p5.js and ml5.js
-- [Teachable Machine: Approachable Web-Based Tool for Exploring Machine Learning Classification](https://dl.acm.org/doi/10.1145/3334480.3382839) - Extended Abstract from CHI 2020
