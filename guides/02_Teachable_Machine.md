@@ -44,9 +44,9 @@ Once you pick the type of model you want to create, the process of creating a mo
 ### 🦄 Live Demo: Happy Unicorn, Sad Unicorn
 <img src="../media/unicorn_plush.jpg" height="180" alt="Reversible Unicorn">
 
-Using a reversible unicorn plushie, we will create a model that classifies the unicorn as happy or sad (unless I can think of a better idea before the session).
+Using a reversible unicorn plushie, we will create a model that classifies the unicorn as happy or sad.
 
-*Link and details will be added after the session.*
+Demo: [Unicorn Reversible Plushie](https://ccai-cdt.github.io/modelgallery/model/unicorn-plush/)
 
 
 ## How to Train Your Model
